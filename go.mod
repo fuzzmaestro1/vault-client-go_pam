@@ -20,5 +20,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
+	github.com/hashicorp/vault v1.1.3
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
